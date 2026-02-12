@@ -26,13 +26,13 @@ This project helps users efficiently manage daily tasks with an intuitive interf
 ---
 
 ## 📂 Project Structure
-
+```
 To-Do-List/
 │
 ├── index.html
 ├── style.css
 └── script.js
-
+```
 
 ---
 
