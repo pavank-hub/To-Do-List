@@ -45,11 +45,6 @@ To-Do-List/
 
 ---
 
-## 📸 Screenshot
-
-![To-Do List App](Assets/images/screenshot19.png)
-
-
 ## 🔧 How to Run
 
 1. Clone the repository:
